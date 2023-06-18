@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-scraper",
+  "version": "1.0.0",
+  "description": "puppeteer scraper to scrape california business entity records and return a .csv file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    	"start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsspdev/puppeteer-scraper.git"
+  },
+  "author": "gsspdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsspdev/puppeteer-scraper/issues"
+  },
+  "homepage": "https://github.com/gsspdev/puppeteer-scraper#readme",
+  "dependencies": {
+    "puppeteer": "^20.7.2"
+  }
+}
